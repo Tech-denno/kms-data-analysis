@@ -1,2 +1,2 @@
 # DSA-Data-Analysis
-The Incubator Hub inspired my journey into the Tech World!
+The Incubato Hub inspired my foray into the IT world!
