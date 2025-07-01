@@ -5,20 +5,33 @@ This project combines SQL querying and Power BI visualization skills across two 
 
 ## 📌 Project Overview
 
-- Case Study 2 focuses on applying the following SQL skills:
+- **Case Study 2**, has Scenario I and II, and focuses on applying SQL skills.
   
-1. Database Creation
-2. Import Data
-3. Data extraction
-4. Filtering
-5. Aggregation
-6. Querying
-7. Create View
+- **Objective:** The aim of this case study is to analyze the sales and operational data of Kultra Mega Stores (KMS) and present key insights and findings. The **Scenario I** analysis focuses on the following:
+
+  - Ascertaining the product category with the highest sales.
+  - Identifyinging the top 3 and bottom 3 regions by sales.
+  - Calculating total sales of appliances in Ontario.
+  - Offering recommendations to increase revenue from the bottom 10 customers.
+  - Analyzing shipping costs to determine the most expensive shipping method.
+
+- Key SQL Concepts Applied:
+    
+  - Database Creation
+  - Import Data
+  - Data extraction
+  - Filtering
+  - Aggregation
+  - Querying
+  - Join
+  - Create View
 
 - Case Study 3 focuses on aplying Power BI skills mentioned below:
-1. Import Data
-2. Extract, Transform, Load (ETL)
-3. Calculated Columns using Data Analysis Expressions (DAX)
-4. Merge Tables
-5. Data Modelling
-6. Visualization
+- Objective:
+- Key POWER BI Concepts Used:
+  - Import Data
+  - Extract, Transform, Load (ETL)
+  - Calculated Columns using Data Analysis Expressions (DAX)
+  - Merge Tables
+  - Data Modelling
+  - Visualization
