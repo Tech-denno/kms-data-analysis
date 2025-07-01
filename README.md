@@ -1,5 +1,5 @@
 # My DSA Final Project
-A capstone project completed as part of a three-month intensive Data Analysis program, aimed at generating insights to address key questions in the field of Human Resource Analytics.
+A Capstone Project completed as part of a three-month intensive Data Analysis program, aimed at generating insights to address key questions in the field of Human Resource Analytics.
 
 This project combines SQL querying and Power BI visualization skills across two case studies.
 
