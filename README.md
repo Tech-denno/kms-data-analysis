@@ -13,38 +13,46 @@ The aim of the Case Scenario I is to analyze the sales and operational data of K
 -  Analyzing shipping costs to determine the most expensive shipping method.
 
 ### Case Scenario II:
--    Identifying the most valuable customers and their typical products or services purchase history.
--    Determining which small business customer generated the highest sales.
--    Finding the corporate customer who placed the most orders between 2009 and 2012.
--    Ascertaining the most profitable consumer customer.
--    Highlighting customers who returned items and analyzing the segments they belong to.
--    Evaluating whether shipping methods were appropriately selected based on order priority and in consideration of both speed and cost.
+-  Identifying the most valuable customers and their typical products or services purchase history.
+-  Determining which small business customer generated the highest sales.
+-  Finding the corporate customer who placed the most orders between 2009 and 2012.
+-  Ascertaining the most profitable consumer customer.
+-  Highlighting customers who returned items and analyzing the segments they belong to.
+-  Evaluating whether shipping methods were appropriately selected based on order priority and in consideration of both speed and cost.
 
 ###  Key SQL Concepts Applied:
-  - Database Creation
-  - Import Data
-  - Data extraction
-  - Filtering
-  - Aggregation
-  - Querying
-  - Join
-  - Create View
-  - Code used:[SQL queries](https://1drv.ms/u/c/bc44d4c60b54fc1d/Ed-zz2qxLwhMgVdtfVkUILMBQDYGKjw7iamyVM5PeidnuA?e=9dla1g)
+-  Database Creation
+-  Import Data
+-  Data extraction
+-  Filtering
+-  Aggregation
+-  Querying
+-  Join
+-  Create View
+-  Code used:[SQL queries](https://1drv.ms/u/c/bc44d4c60b54fc1d/Ed-zz2qxLwhMgVdtfVkUILMBQDYGKjw7iamyVM5PeidnuA?e=9dla1g)
 
 ###  Case Study 3:
 This focuses on aplying Power BI skills, and the goal is to undertake a Prescriptive Analytics for management attention. In particular, the analysis focuses on the following:
-  - The proportion of each gender in the company. Add regional and departmental dimensions.
-  - Perceived gender equality ratings.
-  - Examine salary distribution across genders to detect potential pay gap. If a gender pay gap exists, identify the departments and regions most affected for targeted intervention.
-  - Grouping employees pay distribution by a band of 10000 Dollars and gender.
-  - Calculating bonus amount paid to individual employees.
-  - Calculating total amount paid to individual employees.
-  - Analyzing and calculating total amount paid by region and company-wide.
+-  The proportion of each gender in the company. Add regional and departmental dimensions.
+-  Perceived gender equality ratings.
+-  Examine salary distribution across genders to detect potential pay gap. If a gender pay gap exists, identify the departments and regions most affected for targeted intervention.
+-  Grouping employees pay distribution by a band of 10000 Dollars by gender and region.
+-  Calculating bonus amount paid to individual employees.
+-  Calculating total amount paid to individual employees.
+-  Analyzing and calculating total amount paid by region and company-wide.
     
-  ### Key POWER BI Concepts Used:
-  - Import Data
-  - Extract, Transform, Load (ETL)
-  - Calculated Columns using Data Analysis Expressions (DAX)
-  - Merge Tables
-  - Data Modelling
-  - Visualization
+### Key POWER BI Concepts Used:
+-  Import Data
+-  Extract, Transform, Load (ETL)
+-  Calculated Columns using Data Analysis Expressions (DAX)
+-  Merge Tables
+-  Data Modelling
+-  Visualization
+
+### Visuals Created:
+-  The proportion of each gender in Palmora company, including regional and departmental dimensions.
+-  Male and female employees average salary across department, perceived gender equality rating and gender pay gap.
+-  Employee salary distribution by 10000 Dollars bands and gender.
+-  Employee salary distribution by 10000 Dollars bands and region.
+-  Summary of employees total amount and individual bonuses paid.
+-  Total amount paid by region and company-wide.
