@@ -29,7 +29,7 @@ The aim of the Case Scenario I is to analyze the sales and operational data of K
 -  Querying
 -  Join
 -  Create View
--  Code used:[SQL queries](https://1drv.ms/u/c/bc44d4c60b54fc1d/Ed-zz2qxLwhMgVdtfVkUILMBQDYGKjw7iamyVM5PeidnuA?e=9dla1g)
+-  Code used: [SQL queries](https://1drv.ms/u/c/bc44d4c60b54fc1d/Ed-zz2qxLwhMgVdtfVkUILMBQDYGKjw7iamyVM5PeidnuA?e=9dla1g)
 
 ###  Case Study 3:
 This focuses on aplying Power BI skills, and the goal is to undertake a Prescriptive Analytics for management attention. In particular, the analysis focuses on the following:
