@@ -52,19 +52,23 @@ The aim of the Case Scenario I is to analyze the sales and operational data of K
 |Christopher Conant|    -590423    |
 
 
-
 ### Business Insights for KMS:
 The negative profits in the table above show that customer Christopher Conant has multiple products with negative profit, across categories like Technology, Office Supplies, and Furniture. This could be due to heavy discounts, high operational (shipping costs) costs, or selling low-margin products.
 
+![Table 1](https://github.com/user-attachments/assets/a8f81801-958f-4710-8dbc-9d81f63c08f1)
+
 ### Recommendations:
-- Restrict discounts for Home Office customers on low-margin items.
+- Restrict discounts for Home Office customers on low-margin items, since it is the customer segment mainly affected.
 - Offer bundled deals or minimum order thresholds to ensure profitability.
 - Promote higher-margin alternatives within Office Supplies and Technology.
+ 
 
+5. Analyze shipping costs to determine the most expensive shipping method.
 
-Provide business insights that can help ramp up revenue generation from this customer segment. 
+|    Ship Mode     |  Total Cost  |
+|----------------- |--------------|
+|  Delivery Truck  |    16473     |
 
-5. Analyzing shipping costs to determine the most expensive shipping method.
 
 ### Exploratory Data Analysis: Case Scenario II:
 -  Identifying the most valuable customers and their typical products or services purchase history.
