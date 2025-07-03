@@ -5,14 +5,44 @@ A Capstone Project completed as part of a three-month intensive Data Analysis pr
 
 The aim of the Case Scenario I is to analyze the sales and operational data of Kultra Mega Stores (KMS) and present key insights and findings. While Case Scenario II explores customer behaviour, profitability, and logistics efficiency.
 
-### Case Scenario I:
+### Exploratory Data Analysis (EDA): Case Scenario I
 -  Ascertaining the product category with the highest sales.
+  
+-  **Product Category with the Highest Sales is Technology: 10,971,448,091**
+   
 -  Identifyinging the top 3 and bottom 3 regions by sales.
+  
+- **Top 3 Regions:**
+-  **West: 2,758,919,642**
+-  **Ontario: 2,651,977,582**
+-  **Prarie: 2,508,258,342**
+
+  - **Bottom 3 Regions:**
+-  **Nunavut: 120,764,644**
+-  **Northwest Territories: 632,397,881**
+-  **Yukon: 859,690,795**
+
 -  Calculating total sales of appliances in Ontario.
--  Offering recommendations to increase revenue from the bottom 10 customers.
+
+-  **The Total Sales of Aplpliances in Ontario: 18,487,910**
+ 
+-  Advise Kultra Mega Stores management on strategic actions to increase revenue from the bottom 10 customers. Provide business insights that can help ramp up revenue generation from this customer segment.
+  
+  ### Customer Names                Total Profit
+- Dave Kipp:                        -1308206
+- Lauren Leatherbury                -1132581
+- Roger Demir                       -1018792
+- Tamara Willingham                 -923829
+- Cyra Reiten                       -865396
+- Corey Lock                        -843443
+- Meg O'Connel                      -741117 
+- Irene Maddox                      -623359
+- Maxwell Schwartz                  -599777
+- Christopher Conant                -590423
+   
 -  Analyzing shipping costs to determine the most expensive shipping method.
 
-### Case Scenario II:
+### Exploratory Data Analysis: Case Scenario II:
 -  Identifying the most valuable customers and their typical products or services purchase history.
 -  Determining which small business customer generated the highest sales.
 -  Finding the corporate customer who placed the most orders between 2009 and 2012.
@@ -20,15 +50,15 @@ The aim of the Case Scenario I is to analyze the sales and operational data of K
 -  Highlighting customers who returned items and analyzing the segments they belong to.
 -  Evaluating whether shipping methods were appropriately selected based on order priority and in consideration of both speed and cost.
 
-###  Key SQL Concepts Applied:
+###  Proven Key SQL Skills:
 -  Database Creation
--  Import Data
--  Data extraction
--  Filtering
--  Aggregation
--  Querying
--  Join
--  Create View
+-  Data importation and preparation
+-  Data extraction and selection
+-  Filtering and conditional querying
+-  Aggregation and grouping
+-  Writing SQL queryies 
+-  Joining two tables
+-  Creating and managing View
 -  Code used: [SQL queries](https://1drv.ms/u/c/bc44d4c60b54fc1d/Ed-zz2qxLwhMgVdtfVkUILMBQDYGKjw7iamyVM5PeidnuA?e=9dla1g)
 
 ###  Case Study 3:
