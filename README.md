@@ -53,7 +53,6 @@ The aim of the Case Scenario I is to analyze the sales and operational data of K
 
 
 
-
 ### Business Insights for KMS:
 The negative profits in the table above show that customer Christopher Conant has multiple products with negative profit, across categories like Technology, Office Supplies, and Furniture. This could be due to heavy discounts, high operational (shipping costs) costs, or selling low-margin products.
 
