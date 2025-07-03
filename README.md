@@ -71,7 +71,11 @@ The negative profits in the table above show that customer Christopher Conant ha
 
 
 ### Exploratory Data Analysis: Case Scenario II:
--  Identifying the most valuable customers and their typical products or services purchase history.
+-  Identifying the most valuable customers and their typical products or services purchase history.              
+                        
+
+
+  
 -  Determining which small business customer generated the highest sales.
 -  Finding the corporate customer who placed the most orders between 2009 and 2012.
 -  Ascertaining the most profitable consumer customer.
