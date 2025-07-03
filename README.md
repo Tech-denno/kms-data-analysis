@@ -6,41 +6,66 @@ A Capstone Project completed as part of a three-month intensive Data Analysis pr
 The aim of the Case Scenario I is to analyze the sales and operational data of Kultra Mega Stores (KMS) and present key insights and findings. While Case Scenario II explores customer behaviour, profitability, and logistics efficiency.
 
 ### Exploratory Data Analysis (EDA): Case Scenario I
--  Ascertaining the product category with the highest sales.
-  
--  **Product Category with the Highest Sales is Technology: 10,971,448,091**
+1. Ascertaining the product category with the highest sales.
+
+| Product Category|  Total Sales  |
+|-----------------|-------------- |
+|    Technology   | 10,971,448,091|
+
    
--  Identifyinging the top 3 and bottom 3 regions by sales.
-  
-- **Top 3 Regions:**
--  **West: 2,758,919,642**
--  **Ontario: 2,651,977,582**
--  **Prarie: 2,508,258,342**
-
-  - **Bottom 3 Regions:**
--  **Nunavut: 120,764,644**
--  **Northwest Territories: 632,397,881**
--  **Yukon: 859,690,795**
-
--  Calculating total sales of appliances in Ontario.
-
--  **The Total Sales of Aplpliances in Ontario: 18,487,910**
- 
--  Advise Kultra Mega Stores management on strategic actions to increase revenue from the bottom 10 customers. Provide business insights that can help ramp up revenue generation from this customer segment.
-  
-  ### Customer Names                Total Profit
-- Dave Kipp:                        -1308206
-- Lauren Leatherbury                -1132581
-- Roger Demir                       -1018792
-- Tamara Willingham                 -923829
-- Cyra Reiten                       -865396
-- Corey Lock                        -843443
-- Meg O'Connel                      -741117 
-- Irene Maddox                      -623359
-- Maxwell Schwartz                  -599777
-- Christopher Conant                -590423
+2. Identifyinging the top 3 and bottom 3 regions by sales.
    
--  Analyzing shipping costs to determine the most expensive shipping method.
+|   Top 3 Regions |  Sales       |
+|-----------------|--------------|
+|    West         | 2,758,919,642|
+|    Ontario      | 2,651,977,582|
+|    Prarie       | 2,508,258,342|
+
+
+|   Bottom 3 Regions  |  Sales     |
+|---------------------|------------|
+|    Nunavut          | 120,764,644|
+|Northwest Territories| 632,397,881|
+| Yukon               | 859,690,795|
+
+
+3. Calculating total sales of appliances in Ontario.
+
+|  Total Sales of Appliances in Ontario |
+|-------------------------------------  |
+|             18,487,910                | 
+
+
+4. Advise Kultra Mega Stores management on strategic actions to increase revenue from the bottom 10 customers.
+    
+|Customer Name     | Total Profit  | 
+|---------------   |-------------- |
+|Dave Kipp         |   -1308206    |
+|Lauren Leatherbury|   -1132581    |
+|Roger Demir       |   -1018792    |
+|Tamara Willingham |    -923829    |
+|Cyra Reiten       |    -865396    |
+|Corey Lock        |    -843443    |
+|Meg O'Connel      |    -741117    | 
+|Irene Maddox      |    -623359    |
+|Maxwell Schwartz  |    -599777    |
+|Christopher Conant|    -590423    |
+
+
+
+
+### Business Insights for KMS:
+The negative profits in the table above show that customer Christopher Conant has multiple products with negative profit, across categories like Technology, Office Supplies, and Furniture. This could be due to heavy discounts, high operational (shipping costs) costs, or selling low-margin products.
+
+### Recommendations:
+- Restrict discounts for Home Office customers on low-margin items.
+- Offer bundled deals or minimum order thresholds to ensure profitability.
+- Promote higher-margin alternatives within Office Supplies and Technology.
+
+
+Provide business insights that can help ramp up revenue generation from this customer segment. 
+
+5. Analyzing shipping costs to determine the most expensive shipping method.
 
 ### Exploratory Data Analysis: Case Scenario II:
 -  Identifying the most valuable customers and their typical products or services purchase history.
