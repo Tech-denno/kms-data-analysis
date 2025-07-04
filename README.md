@@ -105,6 +105,7 @@ The negative profits in the table above show that customer Christopher Conant ha
 
 ![Table 4](https://github.com/user-attachments/assets/0df65de2-b142-4eda-bf02-a6d566f188f4)
 
+### Analysis:
 Table 4 shows that KMS has not fully aligned its shipping methods with order priorities. The use of Delivery Truck, the slowest and most economical method, for Critical and High priority orders represents a clear mismatch. Ideally, Delivery Truck should be reserved for Medium and Low priority orders, where speed is less critical. But, Express Air and Regular Air,the faster shipping methods,should be prioritized for High and Critical orders to ensure timely delivery and maintain service quality.
 
 
@@ -117,7 +118,7 @@ Table 4 shows that KMS has not fully aligned its shipping methods with order pri
 -  Writing SQL queryies 
 -  Joining two tables
 -  Creating and managing View
--  Code used: [SQL queries]() 
+-  Code used: [SQL queries](https://1drv.ms/u/c/bc44d4c60b54fc1d/EfN58PeAHKdCvQMXZ5Gof0QBtuA72aEFTJJn0OvKiVi_Hg?e=kmNgAP) 
 
 ###  Case Study 3:
 This focuses on aplying Power BI skills, and the goal is to undertake a Prescriptive Analytics for management attention. In particular, the analysis focuses on the following:
