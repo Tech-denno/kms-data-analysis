@@ -74,6 +74,7 @@ The negative profits in the table above show that customer Christopher Conant ha
 6. Identifying the most valuable customers and their typical products or services purchase history.
                  
 ![Table 2](https://github.com/user-attachments/assets/e52631b1-de32-42f0-859c-1f2ceb70a86b)
+
   
 7.  Determining which small business customer generated the highest sales.
    
@@ -88,14 +89,16 @@ The negative profits in the table above show that customer Christopher Conant ha
 |     Adam Hart     |       27      |
 
 
-8. Ascertaining the most profitable consumer customer.
+9. Ascertaining the most profitable consumer customer.
 
 | Customer Name     |  Total Profit |
 |-------------------|---------------|
 |     Emily Phan    |    2,823,689  |
 
 
--  Highlighting customers who returned items and analyzing the segments they belong to.
+10. Highlighting customers who returned items and analyzing the segments they belong to.
+
+    
 -  Evaluating whether shipping methods were appropriately selected based on order priority and in consideration of both speed and cost.
 
 ###  Proven Key SQL Skills:
