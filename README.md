@@ -120,28 +120,6 @@ Table 4 shows that KMS has not fully aligned its shipping methods with order pri
 -  Creating and managing View
 -  Code used: [SQL queries](https://1drv.ms/u/c/bc44d4c60b54fc1d/EfN58PeAHKdCvQMXZ5Gof0QBtuA72aEFTJJn0OvKiVi_Hg?e=kmNgAP) 
 
-###  Case Study 3:
-This focuses on aplying Power BI skills, and the goal is to undertake a Prescriptive Analytics for management attention. In particular, the analysis focuses on the following:
--  The proportion of each gender in the company. Add regional and departmental dimensions.
--  Perceived gender equality ratings.
--  Examine salary distribution across genders to detect potential pay gap. If a gender pay gap exists, identify the departments and regions most affected for targeted intervention.
--  Grouping employees pay distribution by a band of 10000 Dollars by gender and region.
--  Calculating bonus amount paid to individual employees.
--  Calculating total amount paid to individual employees.
--  Analyzing and calculating total amount paid by region and company-wide.
-    
-### Key POWER BI Concepts Used:
--  Import Data
--  Extract, Transform, Load (ETL)
--  Calculated Columns using Data Analysis Expressions (DAX)
--  Merge Tables
--  Data Modelling
--  Visualization
 
-### Visuals Created:
--  The proportion of each gender in Palmora company, including regional and departmental dimensions.
--  Male and female employees average salary across department, perceived gender equality rating and gender pay gap.
--  Employee salary distribution by 10000 Dollars bands and gender.
--  Employee salary distribution by 10000 Dollars bands and region.
--  Summary of employees total amount and individual bonuses paid.
--  Total amount paid by region and company-wide.
+
+
