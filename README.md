@@ -120,6 +120,8 @@ Table 4 shows that KMS has not fully aligned its shipping methods with order pri
 -  Creating and managing View
 -  Code used: [SQL queries](https://1drv.ms/u/c/bc44d4c60b54fc1d/EfN58PeAHKdCvQMXZ5Gof0QBtuA72aEFTJJn0OvKiVi_Hg?e=kmNgAP) 
 
-
+### Data Source:
+The dataset used in this project was provided by INCUBATOR HUB. It was supplied in CSV format to support the analysis and address the project related questions.
+- [KMS.CSV - File]() 
 
 
