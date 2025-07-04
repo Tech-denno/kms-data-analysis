@@ -71,14 +71,30 @@ The negative profits in the table above show that customer Christopher Conant ha
 
 
 ### Exploratory Data Analysis: Case Scenario II:
--  Identifying the most valuable customers and their typical products or services purchase history.              
-                        
-
-
+6. Identifying the most valuable customers and their typical products or services purchase history.
+                 
+![Table 2](https://github.com/user-attachments/assets/e52631b1-de32-42f0-859c-1f2ceb70a86b)
   
--  Determining which small business customer generated the highest sales.
--  Finding the corporate customer who placed the most orders between 2009 and 2012.
--  Ascertaining the most profitable consumer customer.
+7.  Determining which small business customer generated the highest sales.
+   
+| Customer Name     |  Total Sales  |
+|-------------------|---------------|
+| Deborah Brumfield |    2,329,921  |
+   
+8. Finding the corporate customer who placed the most orders between 2009 and 2012.
+   
+| Customer Name     |  Total Orders |
+|-------------------|---------------|
+|     Adam Hart     |       27      |
+
+
+8. Ascertaining the most profitable consumer customer.
+
+| Customer Name     |  Total Profit |
+|-------------------|---------------|
+|     Emily Phan    |    2,823,689  |
+
+
 -  Highlighting customers who returned items and analyzing the segments they belong to.
 -  Evaluating whether shipping methods were appropriately selected based on order priority and in consideration of both speed and cost.
 
