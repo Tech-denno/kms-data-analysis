@@ -100,12 +100,12 @@ The negative profits in the table above show that customer Christopher Conant ha
 
 ![Table 3](https://github.com/user-attachments/assets/872dcff1-b0d8-497b-8884-4a9c0000b4bd)
 
+
 11. Evaluating whether shipping methods were appropriately selected based on order priority and in consideration of both speed and cost.
 
-
+![Table 4](https://github.com/user-attachments/assets/0df65de2-b142-4eda-bf02-a6d566f188f4)
 
 Table 4 shows that KMS has not fully aligned its shipping methods with order priorities. The use of Delivery Truck, the slowest and most economical method, for Critical and High priority orders represents a clear mismatch. Ideally, Delivery Truck should be reserved for Medium and Low priority orders, where speed is less critical. But, Express Air and Regular Air,the faster shipping methods,should be prioritized for High and Critical orders to ensure timely delivery and maintain service quality.
-
 
 
 ###  Proven Key SQL Skills:
