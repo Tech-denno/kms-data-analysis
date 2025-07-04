@@ -117,7 +117,7 @@ Table 4 shows that KMS has not fully aligned its shipping methods with order pri
 -  Writing SQL queryies 
 -  Joining two tables
 -  Creating and managing View
--  Code used: [SQL queries](https://1drv.ms/u/c/bc44d4c60b54fc1d/Ed-zz2qxLwhMgVdtfVkUILMBQDYGKjw7iamyVM5PeidnuA?e=9dla1g)
+-  Code used: [SQL queries]() 
 
 ###  Case Study 3:
 This focuses on aplying Power BI skills, and the goal is to undertake a Prescriptive Analytics for management attention. In particular, the analysis focuses on the following:
