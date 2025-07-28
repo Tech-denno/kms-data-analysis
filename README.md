@@ -2,7 +2,7 @@
 
 ## Project Overview:
 This capstone project was completed during a three-month intensive Data Analysis program. It focuses on developing SQL querying skills across two business scenarios within Kultra Mega Stores (KMS):
-Case Scenario I: Sales & Operations Analysis
+Case Scenario I: Sales & Operations Analysis and
 Case Scenario II: Customer Behavior & Logistics Efficiency
 
 Tools Used: SQL, CSV Data
